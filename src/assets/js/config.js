@@ -1,5 +1,5 @@
 const config = {
-    API_URL: "http://185.251.91.119:8000",
+    API_URL: "https://world-domination-backend.onrender.com",
 
     // ENUMS
 
