@@ -43,21 +43,6 @@ h2 {
     width: 70%;
 }
 
-.contacts {
-    position: fixed;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    bottom: 5%;
-    left: 0;
-    width: 100%;
-}
-
-.contacts h2 {
-    color: #8a8a8a;
-}
-
 a {
     text-decoration: none;
 
