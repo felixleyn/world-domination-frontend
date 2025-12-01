@@ -1,5 +1,5 @@
 const config = {
-    API_URL: "https://worlddominationgame.ru",
+    API_URL: "https://worlddominationgame.ru/api",
 
     // ENUMS
 
